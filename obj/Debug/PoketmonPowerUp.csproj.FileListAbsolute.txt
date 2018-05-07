@@ -8,3 +8,13 @@ C:\projects\csharp-projects\Lecture02\PoketmonPowerUp\obj\Debug\PoketmonPowerUp.
 C:\projects\csharp-projects\Lecture02\PoketmonPowerUp\obj\Debug\PoketmonPowerUp.csproj.CoreCompileInputs.cache
 C:\projects\csharp-projects\Lecture02\PoketmonPowerUp\obj\Debug\PoketmonPowerUp.exe
 C:\projects\csharp-projects\Lecture02\PoketmonPowerUp\obj\Debug\PoketmonPowerUp.pdb
+C:\projects\csharp-projects\PracticeProjects\PoketmonPowerUp\bin\Debug\PoketmonPowerUp.exe.config
+C:\projects\csharp-projects\PracticeProjects\PoketmonPowerUp\bin\Debug\PoketmonPowerUp.exe
+C:\projects\csharp-projects\PracticeProjects\PoketmonPowerUp\bin\Debug\PoketmonPowerUp.pdb
+C:\projects\csharp-projects\PracticeProjects\PoketmonPowerUp\obj\Debug\PoketmonPowerUp.csprojResolveAssemblyReference.cache
+C:\projects\csharp-projects\PracticeProjects\PoketmonPowerUp\obj\Debug\PoketmonPowerUp.PokemonPowerUp.resources
+C:\projects\csharp-projects\PracticeProjects\PoketmonPowerUp\obj\Debug\PoketmonPowerUp.Properties.Resources.resources
+C:\projects\csharp-projects\PracticeProjects\PoketmonPowerUp\obj\Debug\PoketmonPowerUp.csproj.GenerateResource.cache
+C:\projects\csharp-projects\PracticeProjects\PoketmonPowerUp\obj\Debug\PoketmonPowerUp.csproj.CoreCompileInputs.cache
+C:\projects\csharp-projects\PracticeProjects\PoketmonPowerUp\obj\Debug\PoketmonPowerUp.exe
+C:\projects\csharp-projects\PracticeProjects\PoketmonPowerUp\obj\Debug\PoketmonPowerUp.pdb

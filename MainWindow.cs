@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace PoketmonPowerUp
 {
-    public partial class PokemonPowerUp : Form
+    public partial class MainWindow : Form
     {
-        public PokemonPowerUp()
+        public MainWindow()
         {
             InitializeComponent();
         }
@@ -86,9 +86,7 @@ namespace PoketmonPowerUp
             }
             else
             {
-                int notEnoughCandy = needCandy - myCandy;
-                MessageBox.Show(string.Format("您的糖果數不足: {0}", notEnoughCandy));
-                return;
+                EvolveButton.Enabled = false;
             }
         }
 
@@ -162,9 +160,7 @@ namespace PoketmonPowerUp
             }
             else
             {
-                int notEnoughDust = needDust - myDust;
-                MessageBox.Show(string.Format("您的星塵數不足: {0}", notEnoughDust));
-                return;
+                PowerUpButton.Enabled = false;
             }
         }
     }
